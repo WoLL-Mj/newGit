@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@ant-design/icons": "latest",
-    "@eigen/microAppSDK": "^1.0.20",
     "@handsontable/react": "^11.0.1",
     "@mapbox/react-colorpickr": "^9.0.0",
     "antd": "4.9.4",
