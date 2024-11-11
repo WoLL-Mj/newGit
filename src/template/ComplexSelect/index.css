@@ -1,7 +1,0 @@
-.ant-input {
-    height: 32px;
-}
-
-.ant-form-item .ant-mentions, .ant-form-item textarea.ant-input { 
-    height: 32px;
-}
